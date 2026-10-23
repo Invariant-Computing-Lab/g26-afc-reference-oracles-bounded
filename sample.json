@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "expected": 1,
+      "observed": 1
+    },
+    {
+      "expected": false,
+      "observed": false
+    }
+  ]
+}
